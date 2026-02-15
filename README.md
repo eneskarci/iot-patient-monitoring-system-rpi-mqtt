@@ -1,7 +1,5 @@
 ﻿# IoT Temelli Hasta Takip Sistemi (Raspberry Pi 4 + MQTT)
 
-⚠ Akademik Uyarı
-
 Bu proje Mühendislik Tasarımı 3 dersi kapsamında tarafımdan geliştirilmiştir.
 
 İzinsiz kopyalanması veya akademik amaçla teslim edilmesi yasaktır.
