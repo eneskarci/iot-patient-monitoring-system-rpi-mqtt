@@ -7,10 +7,8 @@ Bu proje Mühendislik Tasarımı 3 dersi kapsamında tarafımdan geliştirilmiş
 İzinsiz kopyalanması veya akademik amaçla teslim edilmesi yasaktır.
 Lütfen kendi emeğinizle çalışın. Kullanmak isterseniz önce benimle iletişime geçiniz.
 
-
-============================================================
-🇹🇷 TÜRKÇE
-============================================================
+TÜRKÇE
+===
 
 ## Proje Özeti
 
@@ -46,10 +44,8 @@ Flask backend üzerinden e-posta bildirimi gönderir.
 - backend/   → Flask uygulaması ve mail servisleri
 - Images/    → Proje görselleri
 
-
-============================================================
-🇬🇧 ENGLISH
-============================================================
+ENGLISH
+===
 
 ## Project Overview
 
